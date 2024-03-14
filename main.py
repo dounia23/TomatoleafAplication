@@ -6,7 +6,8 @@ from kivy.metrics import dp
 from kivymd.app import MDApp
 from kivymd.uix.label import MDLabel
 from kivymd.uix.button import MDRaisedButton
-class TutaApp(MDApp):
+
+class SimpleApp(MDApp):
     def build(self):
         self.screen_manager = ScreenManager()
 
