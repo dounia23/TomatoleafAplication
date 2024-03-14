@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = TutaApp
+title = SimpleApp
 
 # (str) Package name
 package.name = sampleapk
